@@ -1,1 +1,0 @@
-# nn_digit_recognize
