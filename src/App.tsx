@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="Container">
       <iframe
-        src="http://129.148.39.226:8501"
+        src="https://pandannufscar.streamlit.app/"
         title="Streamlit App"
       ></iframe>
     </div>
